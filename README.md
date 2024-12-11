@@ -37,20 +37,19 @@ The Power BI dashboard created as part of this project offers a wide range of ke
 
 - **Data File**:-
   1. <a href="dim_date.csv">Dates</a>
-  2. dim_hotels.csv
-  3. dim_rooms.csv
-  4. fact_aggregated_bookings.csv
-  5. fact_bookings.csv
-  6. metrics list.xlsx
+  2. <a href="dim_hotels.csv">Hotels</a>
+  3. <a href="dim_rooms.csv">Rooms</a>
+  4. <a href="fact_bookings.csv">Bookings</a>
+  5. <a href="fact_aggregated_bookings.csv">Aggregated Bookings</a>
+  6. <a href="metrics list.xlsx">Metrics List</a>
 The raw data in Excel format used for analysis.
-- **Power BI File**:-
-<a href="https://1drv.ms/u/c/9f635a6d45437efe/EWXQpD_pbMpEqpgJ1KZrz98BErbNCi9EclDdejWeLWAqiA?e=iet3pl">PowerBI File</a>      The Power BI file containing the interactive dashboard and all related visualizations.
+-<a href="https://1drv.ms/u/c/9f635a6d45437efe/EWXQpD_pbMpEqpgJ1KZrz98BErbNCi9EclDdejWeLWAqiA?e=iet3pl">PowerBI File</a> - The Power BI file containing the interactive dashboard and all related visualizations.
 - **README.md** – This file.
 
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Open the `AtliQ_Grands_Dashboard.pbix` file in Power BI Desktop.
+2. Open the <a href="https://1drv.ms/u/c/9f635a6d45437efe/EWXQpD_pbMpEqpgJ1KZrz98BErbNCi9EclDdejWeLWAqiA?e=iet3pl">PowerBI File</a> file in Power BI Desktop.
 3. Ensure that the Excel data file is available in the same directory or update the data source path if necessary.
 4. Interact with the dashboard by using filters to customize the view based on different properties, room types, cities, and categories.
 
@@ -59,8 +58,11 @@ The raw data in Excel format used for analysis.
 - **Real-time Data Integration**: Integration of real-time data sources could provide up-to-date insights on hotel performance.
 - **Predictive Analytics**: Leveraging machine learning models for forecasting future trends in revenue, occupancy, and ADR.
 - **More Granular Data**: Additional data points, such as customer demographics or competitor pricing, could be integrated for deeper analysis.
-  
- ## Conclusion
+
+## Dashboard
+![dashboard](https://github.com/user-attachments/assets/80d7c322-164d-49d8-84b2-0cd4287aa58d)
+
+## Conclusion
 
 This Power BI dashboard empowers the management team at AtliQ Grands to make data-driven decisions based on actionable insights from their historical performance. By focusing on key metrics like revenue, occupancy, and ADR, and by offering granular filtering options, the dashboard facilitates better understanding of the business and the competitive landscape. This tool enables the hotel chain to identify trends, pinpoint areas for improvement, and develop strategies to optimize revenue and market share.
 
