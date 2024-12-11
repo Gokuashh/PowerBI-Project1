@@ -35,15 +35,16 @@ The Power BI dashboard created as part of this project offers a wide range of ke
 
 ## Files and Structure
 
-- **Data File**:
-- dim_date.csv
-- dim_hotels.csv
-- dim_rooms.csv
-- fact_aggregated_bookings.csv
-- fact_bookings.csv
-- metrics list.xlsx
- The raw data in Excel format used for analysis.
-- **Power BI File**: <a href="https://1drv.ms/u/c/9f635a6d45437efe/EWXQpD_pbMpEqpgJ1KZrz98BErbNCi9EclDdejWeLWAqiA?e=NMkYEN">PowerBI File</a> – The Power BI file containing the interactive dashboard and all related visualizations.
+- **Data File**:-
+  1. <a href="dim_date.csv">Dates</a>
+  2. dim_hotels.csv
+  3. dim_rooms.csv
+  4. fact_aggregated_bookings.csv
+  5. fact_bookings.csv
+  6. metrics list.xlsx
+The raw data in Excel format used for analysis.
+- **Power BI File**:-
+<a href="https://1drv.ms/u/c/9f635a6d45437efe/EWXQpD_pbMpEqpgJ1KZrz98BErbNCi9EclDdejWeLWAqiA?e=iet3pl">PowerBI File</a>      The Power BI file containing the interactive dashboard and all related visualizations.
 - **README.md** – This file.
 
 ## How to Use
