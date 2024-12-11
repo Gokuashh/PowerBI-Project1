@@ -43,7 +43,7 @@ The Power BI dashboard created as part of this project offers a wide range of ke
   5. <a href="fact_aggregated_bookings.csv">Aggregated Bookings</a>
   6. <a href="metrics list.xlsx">Metrics List</a>
   The raw data in Excel format used for analysis.
-
+- **PowerBI File**:-
   -<a href="https://1drv.ms/u/c/9f635a6d45437efe/EWXQpD_pbMpEqpgJ1KZrz98BErbNCi9EclDdejWeLWAqiA?e=iet3pl">PowerBI File</a> - 
   The Power BI file containing the interactive dashboard and all related visualizations.
 - **README.md** – This file.
