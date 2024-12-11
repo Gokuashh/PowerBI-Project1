@@ -43,7 +43,7 @@ The Power BI dashboard created as part of this project offers a wide range of ke
 - fact_bookings.csv
 - metrics list.xlsx
  The raw data in Excel format used for analysis.
-- **Power BI File**: <a href="https://1drv.ms/u/c/9f635a6d45437efe/EWXQpD_pbMpEqpgJ1KZrz98BErbNCi9EclDdejWeLWAqiA?e=NMkYEN" PowerBI File <a/> – The Power BI file containing the interactive dashboard and all related visualizations.
+- **Power BI File**: <a href="https://1drv.ms/u/c/9f635a6d45437efe/EWXQpD_pbMpEqpgJ1KZrz98BErbNCi9EclDdejWeLWAqiA?e=NMkYEN">PowerBI File</a> – The Power BI file containing the interactive dashboard and all related visualizations.
 - **README.md** – This file.
 
 ## How to Use
